@@ -1,0 +1,23 @@
+{
+    "name": "pacofer/crudrepaso",
+    "description": "Repaso Crud",
+    "type": "project",
+    "license": "Free",
+    "authors": [
+        {
+            "name": "pacofer71",
+            "email": "pacofer71@gmail.com"
+        }
+    ],
+    "config" :{
+        "optimize-autoloader": true
+    },
+    "autoload": {
+        "psr-4": {
+            "Clases\\": "clases"
+        }
+    },
+    "require": {
+        "fakerphp/faker": "^1.14"
+    }
+}

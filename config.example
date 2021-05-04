@@ -1,0 +1,7 @@
+;renombralo como .config
+;parametros de conexion 
+[opciones]
+host=tu_host
+bbdd=tu_bbdd
+usuario=tu_user
+pass=tu_pass
